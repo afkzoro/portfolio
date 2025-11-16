@@ -1,1 +1,18 @@
-site_name: My Docs
+site_name: Samuel Theophilus
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: black
+    accent: deep orange
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Home: index.md
+  - Resume: resume.md
+  - Contact: contact.md
+  - Blog: blog/index.md
+  - Projects: projects/index.md
